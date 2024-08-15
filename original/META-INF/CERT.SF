@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA-256-Digest-Manifest: oAd9gwF8mvwOQtU8bgcrsEl22rEM6zCPijxxyVmjafg=
+SHA-256-Digest-Manifest: v8CC5XoxBVj/GuY46p99HU4AdL+WKcCnWV4qkQJzepE=
 X-Android-APK-Signed: 2, 3
 
 Name: AndroidManifest.xml
@@ -1453,5 +1453,5 @@ Name: res/layout/support_simple_spinner_dropdown_item.xml
 SHA-256-Digest: taBAFLlIE93N+n7ziJOj9K8z1U4elRklY+gY8jgfwZw=
 
 Name: resources.arsc
-SHA-256-Digest: vaxBjvGcKoqcLuSHRVuf/8i4JOFRpOdRRvPZHFogTZQ=
+SHA-256-Digest: EcSlQsN2SiriUs36Dah+zv/6yQuajoB1OQRwk6CH574=
 
